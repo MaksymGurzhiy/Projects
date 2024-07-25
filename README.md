@@ -6,9 +6,9 @@ use detailed descriptions provided, triggers and function usage to use functions
 on data and other remote data for different days. Daily analysis and creation of shared 
 records for powerful underlying data, and provided additional rights available.
 
-Project guide.
 
-# Table of Contents
+
+# Project guide.
 
 | Section                                                                                          | Page |
 |--------------------------------------------------------------------------------------------------|------|
